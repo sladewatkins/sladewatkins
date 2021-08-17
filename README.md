@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Slade! In my free time, I develop websites, design things for operating systems (how they work, interact with users, etc.), and all sorts of other things. You can find me online at [sladewatkins.com](https://www.sladewatkins.com/?page=index.html&from=github-profile-is-true)!
+My name is Slade! In my free time, I develop websites, design things for operating systems (how they work, interact with users, etc.), and all sorts of other things. You can find me online at [sladewatkins.net](https://www.sladewatkins.net)!
 
 If you're looking to reach out to me for whatever reason, please use [Twitter](https://twitter.com/sladewatkins), [Reddit](https://www.reddit.com/u/sladeiam), or email [slade@sladewatkins.com](mailto:slade@sladewatkins.com). I look forward to hearing from you!
 
