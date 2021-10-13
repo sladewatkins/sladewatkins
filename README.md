@@ -2,7 +2,7 @@
 
 My name is Slade! In my free time, I develop websites, design things for operating systems (how they work, interact with users, etc.), and all sorts of other things. You can find me online at [sladewatkins.com](https://www.sladewatkins.com)!
 
-Soon, I'll officially be a co-founder of [@OneTwentyFour](https://github.com/onetwentyfour) Media (the official company) alongside one of my best friends, Ash Fox.
+I'm co-founder of the independent group (not a company!) [@OneTwentyFour](https://github.com/onetwentyfour) Media alongside one of my best friends, Ash Fox. My responsibilities mainly include being the head & oversight of the group.
 
 Follow me on [Twitter](https://twitter.com/sladewatkins) or email me: [swatkins@onetwentyfour.net](mailto:swatkins@onetwentyfour.net).
 
