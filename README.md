@@ -1,6 +1,6 @@
 # :wave: *Hi there, I'm Slade!*
 
-![logo3.png](logo3.png)
+![https://www.sladewatkins.com](logo3.png)
 
 My name is Slade! In my free time, I develop websites, design things for operating systems (how they work, interact with users, etc.), and all sorts of other things. You can find me online at [sladewatkins.com](https://www.sladewatkins.com)!
 
