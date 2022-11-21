@@ -12,4 +12,7 @@ Follow me on [Twitter](https://twitter.com/sladewatkins) or email me at [www.sla
 **ALL [@Wallymer](https://github.com/Wallymer) INQUIRIES MUST GO TO** [info@wallymer.com](mailto:info@wallymer.com).
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O34KS9A)  
+
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a9649c6c2971&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/701886841275547658)](https://discord.com/users/701886841275547658)
