@@ -9,4 +9,4 @@ My name is Slade! In my free time, I develop websites, design things for operati
   - Bluesky: [@sladewatkins.com](https://bsky.app/profile/sladewatkins.com)
   - Elsewhere: [linktr.ee/sladewatkins](https://linktr.ee/sladewatkins)
 
-You should consider following my blog, [The Journal](https://blogs.sladewatkins.com/journal/). Here its [RSS feed](https://blogs.sladewatkins.com/journal/feed)!
+You should consider following my blog, [The Journal](https://www.sladewatkins.com/journal). Here its [RSS feed](https://www.sladewatkins.com/journal/feed)!
