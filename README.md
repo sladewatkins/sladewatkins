@@ -11,4 +11,4 @@ My name is Slade! In my free time, I develop websites, design things for operati
   - Bluesky: [@sladewatkins.com](https://bsky.app/profile/sladewatkins.com)
   - Elsewhere: [linktr.ee/sladewatkins](https://linktr.ee/sladewatkins)
 
-*Consider following [Slade's Corner](https://sladewatkins.substack.com), where my writing goes to live.
+*Consider following [Slade's Corner](https://www.sladewatkins.net), where my writing goes to live.
