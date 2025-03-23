@@ -10,5 +10,5 @@ You can find me online at:
   - YouTube: [youtube.com/@sladewatkins](https://www.youtube.com/@sladewatkins)
   - Bluesky: [@slade.pope.party](https://bsky.app/profile/slade.pope.party)
   - Tumblr: [tumblr.com/sladewatkins](https://www.tumblr.com/sladewatkins/)
-  - Mastodon: [@slade@social.chiefgyk3d.com](https://social.chiefgyk3d.com/@slade)
+  - Mastodon: Personal is [@slade@pope.party](https://pope.party/@slade) / Professional is [@slade@wetdry.world](https://wetdry.world/@slade)
   - Elsewhere: [linktr.ee/sladewatkins](https://linktr.ee/sladewatkins)
