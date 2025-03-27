@@ -11,4 +11,4 @@ You can find me online at:
   - Bluesky: [@slade.pope.party](https://bsky.app/profile/slade.pope.party)
   - Tumblr: [tumblr.com/sladewatkins](https://www.tumblr.com/sladewatkins/)
   - Mastodon: Personal is [@slade@pope.party](https://pope.party/@slade) / Professional is [@slade@wetdry.world](https://wetdry.world/@slade)
-  - Elsewhere: [linktr.ee/sladewatkins](https://linktr.ee/sladewatkins)
+  - Elsewhere: [linktr.ee/slade](https://linktr.ee/slade)
