@@ -9,6 +9,6 @@ You can find me online at:
   - Website: [www.sladewatkins.com](https://www.sladewatkins.com)
   - YouTube: [youtube.com/@sladewatkins](https://www.youtube.com/@sladewatkins)
   - Twitter: [twitter.com/@sladewatkins](https://twitter.com/sladewatkins)
-  - Bluesky: [@slade.pope.party](https://bsky.app/profile/slade.pope.party)
+  - Bluesky: [@sladewatkins.com](https://bsky.app/profile/sladewatkins.com)
   - Mastodon: [@slade@pope.party](https://pope.party/@slade)
   - Elsewhere: [linktr.ee/slade](https://linktr.ee/slade)
