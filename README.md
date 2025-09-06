@@ -8,7 +8,7 @@ My name is Slade! In my free time, I develop websites, design things for operati
 You can find me online at:
   - Website: [www.sladewatkins.com](https://www.sladewatkins.com)
   - YouTube: [youtube.com/@sladewatkins](https://www.youtube.com/@sladewatkins)
-  - Twitter: [twitter.com/@sladewatkins](https://twitter.com/sladewatkins)
+  - Twitter: [twitter.com/sladewatkins](https://twitter.com/sladewatkins)
   - Bluesky: [@sladewatkins.com](https://bsky.app/profile/sladewatkins.com)
-  - Mastodon: [@slade@pope.party](https://pope.party/@slade)
+  - Mastodon: [@sladewatkins@mastodon.social](https://mastodon.social/@sladewatkins)
   - Elsewhere: [linktr.ee/slade](https://linktr.ee/slade)
