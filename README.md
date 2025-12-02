@@ -6,9 +6,7 @@
 My name is Slade! In my free time, I develop websites, design things for operating systems (how they work, interact with users, etc.), and all sorts of other things. Here on GitHub, I mostly work on web-related stuff, but sometimes dabble in other things. 
 
 You can find me online at:
-  - Website: [www.sladewatkins.com](https://www.sladewatkins.com)
-  - YouTube: [youtube.com/@sladewatkins](https://www.youtube.com/@sladewatkins)
-  - Twitter: [twitter.com/sladewatkins](https://twitter.com/sladewatkins)
-  - Bluesky: [@sladewatkins.com](https://bsky.app/profile/sladewatkins.com)
+  - Links: [sladew.org](https://sladew.org)
+  - Twitter: [twitter.com/sladew](https://twitter.com/sladew)
+  - Bluesky: [@sladew.pope.party](https://bsky.app/profile/sladew.pope.party)
   - Mastodon: [@sladewatkins@mastodon.social](https://mastodon.social/@sladewatkins)
-  - Elsewhere: [linktr.ee/slade](https://linktr.ee/slade)
