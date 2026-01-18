@@ -8,5 +8,4 @@ My name is Slade! In my free time, I develop websites, design things for operati
 You can find me online at:
   - Links: [sladew.org](https://sladew.org)
   - Twitter: [twitter.com/sladew](https://twitter.com/sladew)
-  - Bluesky: [@sladew.pope.party](https://bsky.app/profile/sladew.pope.party)
   - Mastodon: [@sladewatkins@mastodon.social](https://mastodon.social/@sladewatkins)
