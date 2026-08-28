@@ -7,5 +7,6 @@ My name is Slade! In my free time, I develop websites, design things for operati
 
 You can find me online at:
   - Links: [sladew.org](https://sladew.org)
-  - Twitter: [twitter.com/sladew](https://twitter.com/sladew)
-  - Mastodon: [@sladewatkins@mastodon.social](https://mastodon.social/@sladewatkins)
+  - Mastodon: [@sladew@sackettalum.net](https://mastodon.sackettalum.net/@sladew) (yes, without the subdomain, unlike what the sidebar on my profile says)
+  - Bluesky [@sladew.sackettalum.net](https://bsky.app/profile/sladew.sackettalum.net)
+  - Instagram: [@sladewatkins](https://www.instagram.com/sladewatkins/)
